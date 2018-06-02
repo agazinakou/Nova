@@ -5,10 +5,10 @@ No Flash. No frameworks. Just 3kb gzipped
 
 ## Why
 
-Nova.css is a cool, fun and cross-browser effect set so you can use them in your web and mobile projects as ionic. Ideal for emphasis, home pages, sliders, and adding water in general. 
+Nova.css is a cool, fun and cross-browser effect set so you can use them in your web and mobile projects as [Ionic Framework](https://ionicframework.com/). Ideal for emphasis, home pages, sliders, and adding water in general. 
 
 ## Download
-You can get it on npm.
+You can get it on [npm](https://www.npmjs.com/).
 
 `npm install nova.css --save`
 
@@ -32,6 +32,6 @@ The good news is that nova.css gracefully degrades if you need to support older 
 
 ## Contact me 
 
-If you need technical support or have any questions, please send a message to agazinakou@gmail.com or via skype: aziiin5
+If you need technical support or have any questions, please send a message to agazinakou@gmail.com or via skype: aziiin5.
 
-Don't re-invent the wheel, Just re-align It 
+Don't re-invent the wheel, Just re-align It.
