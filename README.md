@@ -30,6 +30,8 @@ Nova.css is simple to use just add the class name of the effect to the element t
 
 The good news is that nova.css gracefully degrades if you need to support older browsers.
 
-## Support
+## Contact me 
 
 If you need technical support or have any questions, please send a message to agazinakou@gmail.com or via skype: aziiin5
+
+Don't re-invent the wheel, Just re-align It 
