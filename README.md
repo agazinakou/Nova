@@ -8,22 +8,19 @@ No Flash. No frameworks. Just 3kb gzipped
 Nova.css is a cool, fun and cross-browser effect set so you can use them in your web and mobile projects as [Ionic Framework](https://ionicframework.com/). Ideal for emphasis, home pages, sliders, and adding water in general. 
 
 ## Download
-You can get it on [npm](https://www.npmjs.com/).
-```bash
-npm install nova.css --save
-```
 
-Or if you're not into package management, just [Download a Zip](https://github.com/agazinakou/Nova/archive/master.zip) file. 
-
+Just [Download a Zip](https://github.com/agazinakou/Nova/archive/master.zip) file and past in your project. <br>
+                                    No Flash. No frameworks. Just 3kb gzipped
 
 ## Setup
+
 First, include the script located on the dist folder.
 ```bash
-<link rel="stylesheet" href="dist/nova.min.css">
+<link rel="stylesheet" href="css/nova.min.css">
 ```
         
-
 ## How To Use
+
 Nova.css is simple to use just add the class name of the effect to the element to which you want it to apply. For example if I want to use the pulse effect `nv-back-pulse`
 
 ```bash

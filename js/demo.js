@@ -1,9 +1,4 @@
-function copy(a) {
-    var copyText = a;
-    console.log(copyText);
-
-    document.getElementById("clipboard").innerHTML = 'nv-' + copyText;
-    var x = document.getElementById("clipboard");
-    x.style.display = "block";
-}
-
+const swup = new Swup({
+    plugins: [new SwupSlideTheme()]
+});
+  
