@@ -15,7 +15,7 @@ Just [Download a Zip](https://github.com/agazinakou/Nova/archive/master.zip) fil
 ## Setup
 
 First, include the script located on the dist folder.
-```bash
+```html
 <link rel="stylesheet" href="css/nova.min.css">
 ```
         
@@ -23,7 +23,7 @@ First, include the script located on the dist folder.
 
 Nova.css is simple to use just add the class name of the effect to the element to which you want it to apply. For example if I want to use the pulse effect `nv-back-pulse`
 
-```bash
+```html
 <a href="" class="button nv-back-pulse"></a>
 ```
 
